@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/cotizadorvehicularRimacv1/static/css/main.e139e56e.chunk.css",
+    "main.js": "/cotizadorvehicularRimacv1/static/js/main.7a81822a.chunk.js",
+    "main.js.map": "/cotizadorvehicularRimacv1/static/js/main.7a81822a.chunk.js.map",
+    "runtime-main.js": "/cotizadorvehicularRimacv1/static/js/runtime-main.da43ba54.js",
+    "runtime-main.js.map": "/cotizadorvehicularRimacv1/static/js/runtime-main.da43ba54.js.map",
+    "static/js/2.5f0617ce.chunk.js": "/cotizadorvehicularRimacv1/static/js/2.5f0617ce.chunk.js",
+    "static/js/2.5f0617ce.chunk.js.map": "/cotizadorvehicularRimacv1/static/js/2.5f0617ce.chunk.js.map",
+    "static/js/3.9148c807.chunk.js": "/cotizadorvehicularRimacv1/static/js/3.9148c807.chunk.js",
+    "static/js/3.9148c807.chunk.js.map": "/cotizadorvehicularRimacv1/static/js/3.9148c807.chunk.js.map",
+    "index.html": "/cotizadorvehicularRimacv1/index.html",
+    "static/css/main.e139e56e.chunk.css.map": "/cotizadorvehicularRimacv1/static/css/main.e139e56e.chunk.css.map",
+    "static/js/2.5f0617ce.chunk.js.LICENSE.txt": "/cotizadorvehicularRimacv1/static/js/2.5f0617ce.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/cotizadorvehicularRimacv1/static/media/ic_check.7735d7e8.svg",
+    "static/media/Accordion.module.scss": "/cotizadorvehicularRimacv1/static/media/chevrot_down.c5b40f05.svg",
+    "static/media/chevrot_left.9443a1bf.svg": "/cotizadorvehicularRimacv1/static/media/chevrot_left.9443a1bf.svg",
+    "static/media/Aside.module.scss": "/cotizadorvehicularRimacv1/static/media/success_bg.db9e034d.svg",
+    "static/media/client_female_car.c68d6f90.svg": "/cotizadorvehicularRimacv1/static/media/client_female_car.c68d6f90.svg",
+    "static/media/client_male_success.5c0bc5bc.svg": "/cotizadorvehicularRimacv1/static/media/client_male_success.5c0bc5bc.svg",
+    "static/media/icon_car.734c5e44.svg": "/cotizadorvehicularRimacv1/static/media/icon_car.734c5e44.svg",
+    "static/media/Summary.module.scss": "/cotizadorvehicularRimacv1/static/media/icon_check_success.e80e5cab.svg",
+    "static/media/Stepper.module.scss": "/cotizadorvehicularRimacv1/static/media/icon_chevrot_active.9443a1bf.svg",
+    "static/media/icon_choque.efab2cca.svg": "/cotizadorvehicularRimacv1/static/media/icon_choque.efab2cca.svg",
+    "static/media/icon_perdidatotal.81009f0a.svg": "/cotizadorvehicularRimacv1/static/media/icon_perdidatotal.81009f0a.svg",
+    "static/media/icon_phone.659c4c5f.svg": "/cotizadorvehicularRimacv1/static/media/icon_phone.659c4c5f.svg",
+    "static/media/icon_summary.654c4611.svg": "/cotizadorvehicularRimacv1/static/media/icon_summary.654c4611.svg",
+    "static/media/icon_theft.b950ba28.svg": "/cotizadorvehicularRimacv1/static/media/icon_theft.b950ba28.svg",
+    "static/media/placa_media.de7001c6.svg": "/cotizadorvehicularRimacv1/static/media/placa_media.de7001c6.svg",
+    "static/media/rimac-logo.95e747eb.svg": "/cotizadorvehicularRimacv1/static/media/rimac-logo.95e747eb.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da43ba54.js",
+    "static/js/2.5f0617ce.chunk.js",
+    "static/css/main.e139e56e.chunk.css",
+    "static/js/main.7a81822a.chunk.js"
+  ]
+}
